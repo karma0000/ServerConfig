@@ -1,6 +1,6 @@
-kamehameha:
+superblackkamehameha:
     Item_Information:
-        Item_Name: "&bKa-me-ha-me-ha"
+        Item_Name: "&dS&8u&dp&8e&dr &8Black &dKa-&8me-&dha-&8me-&dha"
         Item_Type: 417
         Inventory_Control: "kamehameha"
     Shooting:
